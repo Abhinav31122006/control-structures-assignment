@@ -39,9 +39,3 @@ Run the scripts using Python 3:
 python Ass2_Tsk1.py
 python Ass2_Tsk2.py
 ```
-
----
-
-## Author
-
-[Your Name Here]
